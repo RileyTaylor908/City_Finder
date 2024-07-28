@@ -20,6 +20,6 @@ The application is hosted on AWS using Elastic Beanstalk.
 ## Code Structure
 
 - **application.py**: The main Flask application.
-- **webscrape**: Contains the web scraping logic to fetch data from Numbeo and other data that did not end up being used.
+- **webscraping/**: Contains the web scraping logic to fetch data from Numbeo and other data that did not end up being used.
 - **templates/**: Contains HTML file for the website.
 - **static/**: Contains CSS file for website styling.

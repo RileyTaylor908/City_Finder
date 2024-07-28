@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>City Recommender</title>
+    <link rel="stylesheet" type="text/css" href="static/styles.css">
+    <script>
+        async function recommendCity() {
+            const preferences = {
+                'Purchasing Power': parseInt(document.getElementById('purchasing_power').value),
+                'Safety': parseInt(document.getElementById('safety').value),
+                'Health Care': parseInt(document.getElementById('health_care').value),
+                'Climate': parseInt(document.getElementById('climate').value),
+                'Cost of Living': parseInt(document.getElementById('cost_of_living').value),
+                'Pollution': parseInt(document.getElementById('pollution').value)
+            };
+
+            const response = await fetch('/recommend', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ preferences })
+            });
+
+            const result = await response.json();
+            document.getElementById('result').innerText = 'Recommended City: ' + result.city;
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>City Recommender</h1>
+        <label for="purchasing_power">Purchasing Power (1-10):</label>
+        <input type="number" id="purchasing_power" min="1" max="10"><br>
+        <label for="safety">Safety (1-10):</label>
+        <input type="number" id="safety" min="1" max="10"><br>
+        <label for="health_care">Health Care (1-10):</label>
+        <input type="number" id="health_care" min="1" max="10"><br>
+        <label for="climate">Climate (1-10):</label>
+        <input type="number" id="climate" min="1" max="10"><br>
+        <label for="cost_of_living">Cost of Living (1-10):</label>
+        <input type="number" id="cost_of_living" min="1" max="10"><br>
+        <label for="pollution">Pollution (1-10):</label>
+        <input type="number" id="pollution" min="1" max="10"><br>
+        <button onclick="recommendCity()">Recommend</button>
+        <p id="result"></p>
+    </div>
+</body>
+</html>

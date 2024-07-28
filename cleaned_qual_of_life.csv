@@ -1,0 +1,218 @@
+City,Purchasing Power,Safety,Health Care,Climate,Cost of Living,Pollution,Purchasing Power Comp,Safety Comp,Health Care Comp,Climate Comp,Cost of Living Comp,Pollution Comp
+New York,105.4,49.27,62.69,79.66,100.0,58.53,High,Moderate,High,High,Very High,Moderate
+Chicago,131.66,33.95,65.25,66.11,78.65,50.48,Very High,Low,High,High,High,Moderate
+Seattle,161.22,46.27,71.47,91.73,84.26,31.91,Very High,Moderate,High,Very High,High,Low
+San Francisco,160.48,38.45,64.48,97.26,92.78,50.03,Very High,Low,High,Very High,Very High,Moderate
+Pittsburgh,149.32,61.65,72.9,72.13,69.59,47.97,Very High,High,High,High,Moderate,Moderate
+Indianapolis,182.54,39.45,72.66,69.92,63.32,43.17,Very High,Low,High,High,Moderate,Moderate
+Virginia Beach,166.34,57.15,73.61,87.19,60.31,21.92,Very High,Moderate,High,Very High,Moderate,Low
+Salt Lake City,164.19,65.84,68.43,66.52,64.33,61.26,Very High,High,High,High,Moderate,High
+Oklahoma City,131.07,50.73,69.19,77.61,67.06,27.19,Very High,Moderate,High,High,Moderate,Low
+New Orleans,128.66,32.59,63.3,86.5,72.16,50.44,Very High,Low,High,Very High,High,Moderate
+Fort Worth,144.36,55.98,64.62,81.56,68.38,53.43,Very High,Moderate,High,Very High,Moderate,Moderate
+Tucson,138.16,45.53,61.27,72.66,66.21,28.03,Very High,Moderate,High,High,Moderate,Low
+Albuquerque,162.03,28.78,62.76,67.06,60.28,33.85,Very High,Low,High,High,Moderate,Low
+Tulsa,164.79,47.21,70.59,79.3,60.12,28.77,Very High,Moderate,High,High,Moderate,Low
+Colorado Springs,155.72,58.06,61.65,51.44,65.87,30.19,Very High,Moderate,High,Moderate,Moderate,Low
+Baton Rouge,138.11,29.19,66.09,86.44,61.7,43.09,Very High,Low,High,Very High,Moderate,Moderate
+Wichita,166.68,50.81,60.94,70.47,61.62,30.47,Very High,Moderate,High,High,Moderate,Low
+Boise,180.41,64.72,71.05,65.11,61.16,29.95,Very High,High,High,High,Moderate,Low
+Honolulu,98.18,52.32,72.87,95.33,86.2,37.08,High,Moderate,High,Very High,High,Low
+Mobile,158.46,33.52,60.49,87.53,56.54,34.72,Very High,Low,High,Very High,Low,Low
+Ann Arbor,178.44,74.87,71.13,56.8,62.72,28.07,Very High,High,High,Moderate,Moderate,Low
+Asheville,120.74,56.35,67.27,80.63,70.07,26.06,Very High,Moderate,High,Very High,Moderate,Low
+Jersey City,149.2,59.15,42.13,79.78,77.28,58.98,Very High,Moderate,Moderate,High,High,Moderate
+Lubbock,165.1,49.61,77.53,73.25,62.1,35.58,Very High,Moderate,High,High,Moderate,Low
+Santa Barbara,130.78,80.85,70.67,95.58,89.03,35.76,Very High,Very High,High,Very High,High,Low
+Ocala,119.0,54.71,71.31,91.05,62.4,26.9,Very High,Moderate,High,Very High,Moderate,Low
+Fort Lauderdale,162.72,50.39,68.09,84.25,68.13,29.31,Very High,Moderate,High,Very High,Moderate,Low
+Kansas City,161.61,41.7,72.69,75.08,62.84,32.5,Very High,Moderate,High,High,Moderate,Low
+Oviedo,122.91,85.4,90.48,96.54,48.73,21.78,Very High,Very High,Very High,Very High,Low,Low
+San Juan,76.99,31.75,62.76,71.25,68.22,48.88,Moderate,Low,High,High,Moderate,Moderate
+Palm Springs,127.87,62.8,80.0,49.27,76.0,45.26,Very High,High,Very High,Moderate,High,Moderate
+Munster,151.77,75.72,86.81,84.88,64.8,29.68,Very High,High,Very High,Very High,Moderate,Low
+Las Vegas,150.71,44.53,54.12,57.4,65.12,52.07,Very High,Moderate,Moderate,Moderate,Moderate,Moderate
+Croydon,99.73,45.6,80.28,88.49,62.92,63.1,High,Moderate,Very High,Very High,Moderate,High
+Belfast,125.6,53.35,72.26,90.84,58.86,26.41,Very High,Moderate,High,Very High,Low,Low
+Montevideo,69.06,44.07,68.47,98.04,50.11,47.03,Moderate,Moderate,High,Very High,Low,Moderate
+Brisbane,148.63,63.3,74.46,98.07,65.31,28.53,Very High,High,High,Very High,Moderate,Low
+Ottawa,119.03,69.4,68.76,44.46,64.16,24.51,Very High,High,High,Moderate,Moderate,Low
+Edinburgh,124.68,68.87,77.49,84.01,68.85,28.05,Very High,High,High,Very High,Moderate,Low
+Kiel,162.75,68.19,70.57,89.35,58.69,21.61,Very High,High,High,Very High,Low,Low
+San Diego,125.17,59.56,67.87,97.08,83.58,39.77,Very High,Moderate,High,Very High,High,Low
+Gothenburg,146.03,53.89,67.75,77.49,58.35,19.18,Very High,Moderate,High,High,Low,Very Low
+Baltimore,146.31,25.33,74.71,81.24,68.19,52.01,Very High,Low,High,Very High,Moderate,Moderate
+Bridgetown,60.98,58.03,69.91,71.34,68.3,18.53,Moderate,Moderate,High,High,Moderate,Very Low
+Irvine,171.51,72.31,67.29,96.82,75.23,37.1,Very High,High,High,Very High,High,Low
+Anchorage,150.92,37.16,61.47,41.61,77.62,15.69,Very High,Low,High,Moderate,High,Very Low
+Santo Domingo,32.35,31.72,54.92,67.82,42.22,77.92,Very Low,Low,Moderate,High,Low,High
+Nice,144.07,43.87,85.5,95.11,65.84,49.69,Very High,Moderate,Very High,Very High,Moderate,Moderate
+Abbotsford,85.97,42.19,65.84,84.54,67.05,37.4,High,Moderate,High,Very High,Moderate,Low
+Minneapolis,165.26,43.93,71.46,49.46,67.68,29.31,Very High,Moderate,High,Moderate,Moderate,Low
+Edmonton,132.01,53.48,77.33,32.11,58.34,28.78,Very High,Moderate,High,Moderate,Low,Low
+Antwerp,125.83,60.02,80.29,85.42,65.13,59.03,Very High,High,Very High,Very High,Moderate,Moderate
+Surrey,87.78,35.59,66.38,88.55,69.64,34.45,High,Low,High,Very High,Moderate,Low
+Nottingham,122.07,49.16,67.82,88.0,63.41,44.82,Very High,Moderate,High,Very High,Moderate,Moderate
+Reno,148.42,55.46,62.68,62.28,68.55,29.53,Very High,Moderate,High,High,Moderate,Low
+Cologne,145.53,57.45,72.78,84.85,62.16,38.42,Very High,Moderate,High,Very High,Moderate,Low
+Phoenix,156.78,46.34,67.18,53.76,66.5,57.15,Very High,Moderate,High,Moderate,Moderate,Moderate
+Toluca,53.82,34.94,65.28,83.56,37.31,67.35,Low,Low,High,Very High,Very Low,High
+Olympia,147.81,69.71,68.64,83.44,69.3,20.33,Very High,High,High,Very High,Moderate,Low
+Tripoli,41.28,35.96,41.82,96.54,20.55,59.23,Low,Low,Moderate,Very High,Very Low,Moderate
+Rapid City,163.1,51.97,56.3,68.1,59.01,18.88,Very High,Moderate,Moderate,High,Low,Very Low
+Colchester,120.97,52.9,74.01,86.41,59.85,26.72,Very High,Moderate,High,Very High,Low,Low
+Gibraltar,105.05,79.6,67.13,98.59,60.82,61.64,High,High,High,Very High,Moderate,High
+Copenhagen,135.3,74.27,77.16,83.74,76.23,21.26,Very High,High,High,Very High,High,Low
+El Paso,165.72,68.36,62.21,72.05,59.68,45.49,Very High,High,High,High,Low,Moderate
+Brooklyn,79.7,55.44,64.65,79.66,85.8,50.59,Moderate,Moderate,High,High,High,Moderate
+San Jose,155.46,51.91,64.57,95.53,89.8,50.32,Very High,Moderate,High,Very High,High,Moderate
+Parma,99.79,62.25,67.35,87.98,56.13,65.37,High,High,High,Very High,Low,High
+La Paz,46.39,39.24,46.23,55.46,27.38,75.36,Low,Low,Moderate,Moderate,Very Low,High
+Toledo,151.62,32.56,53.17,68.78,53.23,45.98,Very High,Low,Moderate,High,Low,Moderate
+Warsaw,105.54,74.63,58.43,74.61,44.47,59.96,High,High,Moderate,High,Low,Moderate
+Richmond,171.08,51.57,72.98,81.27,61.34,31.31,Very High,Moderate,High,Very High,Moderate,Low
+Huntsville,147.57,61.88,70.01,86.64,64.77,27.07,Very High,High,High,Very High,Moderate,Low
+Breda,151.72,84.07,85.19,85.66,63.3,20.13,Very High,Very High,Very High,Very High,Moderate,Low
+Varna,66.09,64.56,63.84,85.08,37.75,59.73,Moderate,High,High,Very High,Very Low,Moderate
+Los Angeles,122.54,46.95,61.32,95.5,80.08,67.68,Very High,Moderate,High,Very High,High,High
+Charlotte,139.31,52.88,69.21,84.05,72.33,35.26,Very High,Moderate,High,Very High,High,Low
+Hobart,126.43,66.1,69.17,90.62,71.58,15.77,Very High,High,High,Very High,Moderate,Very Low
+Dunfermline,117.0,70.3,77.78,83.14,59.6,0.0,Very High,High,High,Very High,Low,Very Low
+Lyon,149.46,44.28,77.03,88.51,67.23,51.62,Very High,Moderate,High,Very High,Moderate,Moderate
+Chandler,186.31,76.61,76.54,59.92,65.1,35.26,Very High,High,High,Moderate,Moderate,Low
+Tangier,33.92,49.72,31.74,98.39,28.94,58.95,Very Low,Moderate,Low,Very High,Very Low,Moderate
+Prague,89.36,75.46,74.72,80.67,50.15,33.52,High,High,High,Very High,Low,Low
+Munich,123.13,79.53,77.36,75.98,70.75,25.05,Very High,High,High,High,Moderate,Low
+Newcastle,137.09,51.63,81.55,96.66,66.67,28.98,Very High,Moderate,Very High,Very High,Moderate,Low
+Manila,37.41,35.6,62.51,61.23,35.84,89.81,Very Low,Low,High,High,Very Low,Very High
+Fairbanks,162.06,60.81,66.9,-3.84,86.79,24.58,Very High,High,High,Low,High,Low
+Oslo,121.57,66.16,77.98,59.99,75.96,22.05,Very High,High,High,Moderate,High,Low
+Leeds,128.73,56.1,80.68,84.59,60.13,45.11,Very High,Moderate,Very High,Very High,Moderate,Moderate
+Philadelphia,122.68,34.07,70.19,77.98,74.98,48.24,Very High,Low,High,High,High,Moderate
+Brighton,105.03,59.83,74.64,89.65,62.71,26.37,High,Moderate,High,Very High,Moderate,Low
+Malta,57.8,63.13,53.24,97.44,59.91,74.23,Low,High,Moderate,Very High,Low,High
+Port Elizabeth,88.77,22.26,63.29,98.81,34.03,41.46,High,Low,High,Very High,Very Low,Moderate
+Nuremberg,146.52,63.51,63.1,77.54,63.53,27.49,Very High,High,High,High,Moderate,Low
+Bradford,147.61,32.33,69.44,85.59,61.62,59.47,Very High,Low,High,Very High,Moderate,Moderate
+Houston,176.86,36.45,69.29,85.53,62.41,57.1,Very High,Low,High,Very High,Moderate,Moderate
+Torreon,56.23,58.38,79.44,72.17,36.79,58.06,Low,Moderate,High,High,Very Low,Moderate
+Wellington,95.27,66.96,64.34,97.68,67.8,23.6,High,High,High,Very High,Moderate,Low
+Halifax,99.8,58.95,66.1,58.99,65.71,24.11,High,Moderate,High,Moderate,Moderate,Low
+Cincinnati,167.41,51.84,67.74,73.24,55.83,42.99,Very High,Moderate,High,High,Low,Moderate
+Algiers,32.73,48.51,57.15,94.82,28.74,67.75,Very Low,Moderate,Moderate,Very High,Very Low,High
+Granada,104.17,67.13,77.06,86.55,48.64,38.74,High,High,High,Very High,Low,Low
+Bremen,180.59,52.66,73.48,83.08,62.18,22.6,Very High,Moderate,High,Very High,Moderate,Low
+Boston,135.15,60.1,72.71,71.73,84.85,29.79,Very High,High,High,High,High,Low
+Heidelberg,152.93,75.14,81.79,82.49,66.02,15.77,Very High,High,Very High,Very High,Moderate,Very Low
+Madison,151.78,66.91,76.38,51.64,63.35,23.01,Very High,High,High,Moderate,Moderate,Low
+Spokane,140.47,44.5,65.15,67.12,65.57,23.72,Very High,Moderate,High,High,Moderate,Low
+Milwaukee,147.49,32.81,64.99,60.96,64.73,31.98,Very High,Low,High,High,Moderate,Low
+Hull,130.07,45.45,69.6,87.96,52.11,44.43,Very High,Moderate,High,Very High,Low,Moderate
+Madrid,111.22,72.84,79.35,85.47,53.21,37.0,Very High,High,High,Very High,Low,Low
+Damascus,5.11,30.55,37.3,70.11,27.5,70.0,Very Low,Low,Low,High,Very Low,High
+Louisville,170.97,43.19,65.63,78.61,63.77,45.53,Very High,Moderate,High,High,Moderate,Moderate
+Agra,73.9,56.4,77.59,54.94,20.03,82.74,Moderate,Moderate,High,Moderate,Very Low,Very High
+Belgrade,54.75,61.94,53.17,84.14,41.77,68.04,Low,High,Moderate,Very High,Low,High
+Malaga,100.67,70.66,70.76,96.98,44.6,31.59,High,High,High,Very High,Low,Low
+Greensboro,133.2,55.33,63.6,82.79,64.06,29.13,Very High,Moderate,High,Very High,Moderate,Low
+Portsmouth,123.5,55.71,75.6,88.63,60.59,50.3,Very High,Moderate,High,Very High,Moderate,Moderate
+Little Rock,169.49,39.89,66.82,83.82,59.37,22.85,Very High,Low,High,Very High,Low,Low
+Moscow,81.98,64.25,67.24,55.83,38.16,55.12,Moderate,High,High,Moderate,Very Low,Moderate
+Syracuse,111.68,35.54,55.13,59.98,72.93,39.25,Very High,Low,Moderate,Moderate,High,Low
+Tacoma,169.28,44.45,73.49,90.88,73.5,35.58,Very High,Moderate,High,Very High,High,Low
+Amsterdam,131.89,71.16,78.19,87.45,71.52,24.48,Very High,High,High,Very High,Moderate,Low
+Eugene,132.97,51.55,71.46,87.31,68.54,27.97,Very High,Moderate,High,Very High,Moderate,Low
+Corunna,100.09,81.49,74.48,97.21,45.92,32.14,High,Very High,High,Very High,Low,Low
+Bern,166.01,79.02,73.42,75.97,101.17,17.53,Very High,High,High,High,Very High,Very Low
+Buffalo,101.75,51.35,71.39,66.43,75.7,29.07,High,Moderate,High,High,High,Low
+Lund,142.07,67.08,71.05,78.71,57.91,32.26,Very High,High,High,High,Low,Low
+Palermo,108.3,55.83,58.67,97.63,48.65,66.18,High,Moderate,Moderate,Very High,Low,High
+Tampa,156.18,54.7,67.76,84.67,74.13,32.46,Very High,Moderate,High,Very High,High,Low
+Omaha,145.13,54.86,77.36,59.79,68.31,29.88,Very High,Moderate,High,Moderate,Moderate,Low
+Geneva,155.0,69.19,71.04,82.61,106.89,25.46,Very High,High,High,Very High,Very High,Low
+Genoa,114.89,55.19,67.18,95.0,56.89,50.34,Very High,Moderate,High,Very High,Low,Moderate
+Malmo,143.53,43.55,68.23,82.3,58.29,14.32,Very High,Moderate,High,Very High,Low,Very Low
+Turin,102.03,48.04,66.17,85.66,55.0,68.85,High,Moderate,High,Very High,Low,High
+Cleveland,128.25,35.81,80.3,73.11,65.51,39.13,Very High,Low,Very High,High,Moderate,Low
+Bristol,117.6,57.88,71.6,88.51,63.47,46.46,Very High,Moderate,High,Very High,Moderate,Moderate
+Verona,102.83,65.2,65.63,87.02,55.01,60.76,High,High,High,Very High,Low,High
+Lincoln,151.95,66.23,77.62,56.71,61.88,22.39,Very High,High,High,Moderate,Moderate,Low
+Liverpool,122.83,51.59,83.03,90.87,61.7,30.19,Very High,Moderate,Very High,Very High,Moderate,Low
+Brussels,118.44,45.7,73.55,83.85,66.17,61.58,Very High,Moderate,High,Very High,Moderate,High
+Hanover,142.33,53.17,69.68,83.48,62.86,24.89,Very High,Moderate,High,Very High,Moderate,Low
+Derby,129.36,56.03,75.69,88.79,67.18,29.83,Very High,Moderate,High,Very High,Moderate,Low
+Knoxville,150.39,56.35,68.09,84.0,57.66,47.57,Very High,Moderate,High,Very High,Low,Moderate
+Atlanta,179.4,35.97,67.14,89.73,72.75,45.04,Very High,Low,High,Very High,High,Moderate
+Vienna,119.83,69.83,79.58,81.77,66.02,16.54,Very High,High,High,Very High,Moderate,Very Low
+Orlando,151.89,50.43,60.9,87.23,67.5,34.9,Very High,Moderate,High,Very High,Moderate,Low
+Lublin,81.19,67.94,63.07,77.51,38.27,44.8,Moderate,High,High,High,Very Low,Moderate
+Waterloo,137.87,70.4,73.76,51.28,62.24,22.09,Very High,High,High,Moderate,Moderate,Low
+Dallas,164.33,48.12,66.44,81.85,69.45,41.91,Very High,Moderate,High,Very High,Moderate,Moderate
+Des Moines,166.46,58.25,76.7,61.88,61.89,31.75,Very High,Moderate,High,High,Moderate,Low
+Osaka,133.16,67.02,80.3,84.32,42.45,48.72,Very High,High,Very High,Very High,Low,Moderate
+Milan,73.57,48.62,71.51,88.12,66.58,67.21,Moderate,Moderate,High,Very High,Moderate,High
+Johannesburg,126.33,19.17,60.25,91.38,35.16,61.74,Very High,Very Low,High,Very High,Very Low,High
+Stockholm,132.86,53.78,66.25,69.67,64.3,18.46,Very High,Moderate,High,High,Moderate,Very Low
+Oakland,119.73,31.29,77.54,96.4,91.44,40.87,Very High,Low,High,Very High,Very High,Moderate
+Rimini,97.15,53.37,87.96,90.34,54.45,32.35,High,Moderate,Very High,Very High,Low,Low
+Valencia,103.97,69.77,80.56,93.84,45.54,24.9,High,High,Very High,Very High,Low,Low
+Como,72.0,69.37,58.95,84.6,69.01,46.82,Moderate,High,Moderate,Very High,Moderate,Moderate
+Miami,114.35,47.26,63.59,85.69,75.22,38.73,Very High,Moderate,High,Very High,High,Low
+Havana,2.09,67.72,54.51,89.86,45.44,58.08,Very Low,High,Moderate,Very High,Low,Moderate
+Toronto,118.84,56.64,74.3,65.35,66.9,37.38,Very High,Moderate,High,High,Moderate,Low
+Santiago,48.89,36.65,65.31,90.21,41.27,70.78,Low,Low,High,Very High,Low,High
+Bogota,33.21,33.47,65.18,97.12,28.56,70.16,Very Low,Low,High,Very High,Very Low,High
+San Antonio,133.68,52.19,67.87,80.58,64.76,43.86,Very High,Moderate,High,Very High,Moderate,Moderate
+Glasgow,133.62,54.9,78.98,84.78,63.85,34.22,Very High,Moderate,High,Very High,Moderate,Low
+Lima,36.42,29.16,58.09,97.69,32.97,85.3,Very Low,Low,Moderate,Very High,Very Low,Very High
+Lisbon,62.22,70.03,73.29,98.59,49.41,34.77,Moderate,High,High,Very High,Low,Low
+Paris,108.82,42.11,77.31,88.39,75.89,64.52,High,Moderate,High,Very High,High,High
+Montreal,106.07,67.49,62.32,52.37,62.22,33.72,High,High,High,Moderate,Moderate,Low
+Bath,117.53,74.87,81.33,91.61,68.95,57.49,Very High,High,Very High,Very High,Moderate,Moderate
+Stuttgart,171.35,65.75,76.73,81.07,63.49,38.42,Very High,High,High,Very High,Moderate,Low
+Washington,139.52,39.87,70.14,81.62,82.34,42.1,Very High,Low,High,Very High,High,Moderate
+Karlsruhe,154.21,63.42,71.7,81.28,63.89,19.41,Very High,High,High,Very High,Moderate,Very Low
+London,119.82,45.32,69.8,88.25,81.94,58.0,Very High,Moderate,High,Very High,High,Moderate
+Nassau,50.84,35.16,40.9,85.98,94.48,58.69,Low,Low,Moderate,Very High,Very High,Moderate
+Rome,93.71,50.75,63.39,93.7,54.08,54.47,High,Moderate,High,Very High,Low,Moderate
+Berlin,131.47,55.39,67.55,83.35,65.11,38.74,Very High,Moderate,High,Very High,Moderate,Low
+Georgetown,32.01,29.48,35.45,65.81,43.8,68.1,Very Low,Low,Low,High,Low,High
+Dresden,149.09,68.31,78.53,81.42,58.9,23.69,Very High,High,High,Very High,Low,Low
+Las Palmas,86.31,71.94,74.37,99.17,42.77,39.29,High,High,High,Very High,Low,Low
+Fresno,99.35,42.88,74.18,78.27,72.56,83.28,High,Moderate,High,High,High,Very High
+Dundee,122.56,51.92,88.69,89.56,62.85,16.38,Very High,Moderate,Very High,Very High,Moderate,Very Low
+Zurich,180.28,77.19,70.31,81.48,108.64,24.89,Very High,High,High,Very High,Very High,Low
+Delhi,127.86,41.07,66.42,58.9,23.53,90.2,Very High,Moderate,High,Moderate,Very Low,Very High
+Oxford,103.54,65.93,72.36,83.55,70.54,25.48,High,High,High,Very High,Moderate,Low
+Nashville,144.52,51.75,63.83,83.02,69.13,36.4,Very High,Moderate,High,Very High,Moderate,Low
+Kingston,134.42,60.99,74.69,57.34,60.3,25.46,Very High,High,High,Moderate,Moderate,Low
+Douglas,202.3,81.39,72.61,91.32,57.49,15.3,Very High,Very High,High,Very High,Low,Very Low
+Peoria,179.16,50.53,73.68,66.05,60.29,18.33,Very High,Moderate,High,High,Moderate,Very Low
+Lucerne,155.35,78.69,72.07,81.95,109.18,28.53,Very High,High,High,Very High,Very High,Low
+Sheffield,119.55,56.6,81.17,87.91,60.52,31.16,Very High,Moderate,Very High,Very High,Moderate,Low
+Hamilton,89.95,44.55,75.86,61.06,69.61,60.49,High,Moderate,High,High,Moderate,High
+Jerusalem,82.2,63.03,72.34,93.88,66.76,60.87,Moderate,High,High,Very High,Moderate,High
+Detroit,159.28,25.7,62.72,66.03,64.6,60.73,Very High,Low,High,High,Moderate,High
+Windsor,130.08,54.38,59.91,66.96,58.91,52.03,Very High,Moderate,Moderate,High,Low,Moderate
+Venice,104.77,66.88,63.48,82.39,64.43,64.18,High,High,High,Very High,Moderate,High
+Cardiff,128.26,61.37,66.73,91.61,59.33,38.76,Very High,High,High,Very High,Low,Low
+Memphis,144.51,22.96,45.0,84.42,63.31,46.45,Very High,Low,Moderate,Very High,Moderate,Moderate
+Hamburg,140.47,57.73,74.92,82.75,67.54,29.11,Very High,Moderate,High,Very High,Moderate,Low
+Denver,137.69,52.97,69.19,56.28,73.27,44.26,Very High,Moderate,High,Moderate,High,Moderate
+Boulder,162.47,72.57,73.57,62.36,81.93,30.97,Very High,High,High,High,High,Low
+Perth,144.09,58.35,71.2,95.71,67.4,27.9,Very High,Moderate,High,Very High,Moderate,Low
+Albany,128.72,55.36,68.95,60.22,70.58,28.18,Very High,Moderate,High,High,Moderate,Low
+Florence,89.79,60.31,68.28,92.45,59.26,44.17,High,High,High,Very High,Low,Moderate
+Tunis,33.4,51.88,57.04,93.24,28.2,74.79,Very Low,Moderate,Moderate,Very High,Very Low,High
+Waterford,116.89,52.72,27.78,92.31,64.47,23.92,Very High,Moderate,Low,Very High,Moderate,Low
+Raleigh,145.0,61.25,66.92,83.88,73.69,30.86,Very High,High,High,Very High,High,Low
+Princeton,154.86,82.91,79.44,73.84,88.75,18.73,Very High,Very High,High,High,High,Very Low
+Dublin,109.01,46.82,51.3,85.89,70.04,41.33,High,Moderate,Moderate,Very High,Moderate,Moderate
+Modena,82.58,53.33,77.82,87.99,60.62,61.21,Moderate,Moderate,High,Very High,Moderate,High
+Bergen,102.85,74.82,75.52,78.83,76.66,20.15,High,High,High,High,High,Low
+Paderborn,113.52,64.53,100.0,82.78,61.62,34.48,Very High,High,Very High,Very High,Moderate,Low
+Austin,169.35,58.76,68.79,82.08,64.44,43.13,Very High,Moderate,High,Very High,Moderate,Moderate
+Sacramento,97.32,50.14,68.02,90.64,82.48,47.7,High,Moderate,High,Very High,High,Moderate
+Darmstadt,131.3,68.03,60.39,88.26,66.24,37.82,Very High,High,High,Very High,Moderate,Low
+Oakville,109.43,73.48,74.07,68.35,59.98,30.02,High,High,High,High,Low,Low
+Rockville,187.41,66.78,75.46,75.83,69.68,20.69,Very High,High,High,High,Moderate,Low

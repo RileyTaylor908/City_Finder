@@ -4,7 +4,7 @@ This web application recommends cities based on user preferences using data from
 
 ## URL
 
-The live application can be accessed at: http://cityfinder2-env.eba-xvmwdsf9.us-east-2.elasticbeanstalk.com/
+http://cityfinder2-env.eba-xvmwdsf9.us-east-2.elasticbeanstalk.com/
 
 ## Features
 

@@ -8,7 +8,7 @@ http://cityfinder2-env.eba-xvmwdsf9.us-east-2.elasticbeanstalk.com/
 
 ## Demo
 
-![](
+![](https://github.com/RileyTaylor908/City_Finder/blob/main/demo.gif)
 
 ## Features
 

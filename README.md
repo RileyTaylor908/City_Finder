@@ -6,6 +6,10 @@ This web application recommends cities based on user preferences using data from
 
 http://cityfinder2-env.eba-xvmwdsf9.us-east-2.elasticbeanstalk.com/
 
+## Demo
+
+![](
+
 ## Features
 
 - **User Preferences**: Users can input their preferences for various categories such as Purchasing Power, Safety, Health Care, Climate, Cost of Living, and Pollution.
